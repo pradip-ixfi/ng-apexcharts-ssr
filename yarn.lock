@@ -179,10 +179,10 @@
     "@angular-eslint/bundled-angular-compiler" "14.1.2"
     "@typescript-eslint/utils" "5.37.0"
 
-"@angular/animations@^14.0.0", "@angular/animations@14.0.0":
-  "integrity" "sha512-HVcS4l0eStcA2RDDQcxqChFHVN3BfQdvx68HRTuVDYbUSS4xdL5Hsk8OMkczV1pFDn+URKH1A363bTy5juyDaQ=="
-  "resolved" "https://registry.npmjs.org/@angular/animations/-/animations-14.0.0.tgz"
-  "version" "14.0.0"
+"@angular/animations@^14.2.3", "@angular/animations@14.2.3":
+  "integrity" "sha512-5psQgSia7pUUKYpFuwA+c+yWyM8afl9ZlOW2pxBU/2mTMLpxJEnVrUnKRsx3WSrOc9YqoLn6DOtDLXq2dbTxFQ=="
+  "resolved" "https://registry.npmjs.org/@angular/animations/-/animations-14.2.3.tgz"
+  "version" "14.2.3"
   dependencies:
     "tslib" "^2.3.0"
 
@@ -212,17 +212,17 @@
     "uuid" "8.3.2"
     "yargs" "17.5.1"
 
-"@angular/common@^14.0.0", "@angular/common@14.0.0":
-  "integrity" "sha512-VYydSXelPlcAnWZs6SKkOxV+rNe8zOtHKLf9jBTYT5nP5P66+va4zITo1C9bs5tbK+mRssayf615+SIGEXyJFg=="
-  "resolved" "https://registry.npmjs.org/@angular/common/-/common-14.0.0.tgz"
-  "version" "14.0.0"
+"@angular/common@^14.2.3", "@angular/common@14.2.3":
+  "integrity" "sha512-DoBQk9uBWfGc+mZ9+lwpmZQy05zKgOeIfDM+2f7Wjrv1/X/V+YUJhjS66GIEBGOe23DoSeivLLCpVj8QqR058A=="
+  "resolved" "https://registry.npmjs.org/@angular/common/-/common-14.2.3.tgz"
+  "version" "14.2.3"
   dependencies:
     "tslib" "^2.3.0"
 
-"@angular/compiler-cli@^14.0.0", "@angular/compiler-cli@^14.0.0 || ^14.0.0-next || ^14.1.0-next":
-  "integrity" "sha512-5T9AjguK4NsCjk4mdrSLV7BrifijKb79wFyDOQX5+p7GVRag47U6E6qQAKhsqZxLy7grrBX4fb0PFARL2OrkLQ=="
-  "resolved" "https://registry.npmjs.org/@angular/compiler-cli/-/compiler-cli-14.0.0.tgz"
-  "version" "14.0.0"
+"@angular/compiler-cli@^14.0.0", "@angular/compiler-cli@^14.0.0 || ^14.0.0-next || ^14.1.0-next", "@angular/compiler-cli@^14.2.3":
+  "integrity" "sha512-MPKZTD4j5EnvpHXLOj6VnXBv/LXfVLoLNc4nNShfuJFJjK9vOqXelb2GJt+2iL+9xKevGxDk7NIcl++fhV2lkQ=="
+  "resolved" "https://registry.npmjs.org/@angular/compiler-cli/-/compiler-cli-14.2.3.tgz"
+  "version" "14.2.3"
   dependencies:
     "@babel/core" "^7.17.2"
     "chokidar" "^3.0.0"
@@ -235,50 +235,50 @@
     "tslib" "^2.3.0"
     "yargs" "^17.2.1"
 
-"@angular/compiler@^14.0.0", "@angular/compiler@14.0.0":
-  "integrity" "sha512-yWpru4coLOE2Ivn+1ltXPsaxai5MOUABPmYZfm47HN7vfVsxcTC44QDxGY73M9e18sngTIFi6qgr8vci1AT9lg=="
-  "resolved" "https://registry.npmjs.org/@angular/compiler/-/compiler-14.0.0.tgz"
-  "version" "14.0.0"
+"@angular/compiler@^14.2.3", "@angular/compiler@14.2.3":
+  "integrity" "sha512-DG2lqSqD5hx6Qk362jhjU9O+I2gOlsV8oUSTOkH4eFQ54PUad1D3hjqfcs3/lsvWggALCSjv9X8BOG8jb7n8vw=="
+  "resolved" "https://registry.npmjs.org/@angular/compiler/-/compiler-14.2.3.tgz"
+  "version" "14.2.3"
   dependencies:
     "tslib" "^2.3.0"
 
-"@angular/core@^14.0.0", "@angular/core@14.0.0":
-  "integrity" "sha512-Mj3r8iMlWfMbY+9DRUFZx1gKnA27Jwx3ff/VXeXBgfxaEKDYmlZSnliZSV6ssiHSUwn/U6yxDXFgcZL090zNBQ=="
-  "resolved" "https://registry.npmjs.org/@angular/core/-/core-14.0.0.tgz"
-  "version" "14.0.0"
+"@angular/core@^14.2.3", "@angular/core@14.2.3":
+  "integrity" "sha512-neW2n5Ts2purYEVh0Lf207otZbhYH4C4lwwu8ffxdRiXahQiTCbmyM3IQFrQZbLDb/ZeD2KhoCl6p0hlyg14cA=="
+  "resolved" "https://registry.npmjs.org/@angular/core/-/core-14.2.3.tgz"
+  "version" "14.2.3"
   dependencies:
     "tslib" "^2.3.0"
 
-"@angular/forms@^14.0.0":
-  "integrity" "sha512-r2FHcJve+/rXU4wdCA50nwySGKB5/bxqpULOGeWs4FIdKcUoTnzHtqMsd7sUa7wOA40O4fBHAxKPDGPJPl5CEA=="
-  "resolved" "https://registry.npmjs.org/@angular/forms/-/forms-14.0.0.tgz"
-  "version" "14.0.0"
+"@angular/forms@^14.2.3":
+  "integrity" "sha512-rL6adBHp51i3eDBecexrlrS+t+hlK6EnrEot/+Ec+DzVjJgw5VNJ4p2Ig72HPe0m+H0dcPkbQhlpb6cs677ISA=="
+  "resolved" "https://registry.npmjs.org/@angular/forms/-/forms-14.2.3.tgz"
+  "version" "14.2.3"
   dependencies:
     "tslib" "^2.3.0"
 
-"@angular/language-service@^14.0.0":
-  "integrity" "sha512-05P+3IJ+pT9WQdUcXVM4NGY1a8V1bGKRVEE6BFFPYG+ElrM2aR7e0j997zAPIwPLWT1Z8/oC1wJ3MCBBTbECVQ=="
-  "resolved" "https://registry.npmjs.org/@angular/language-service/-/language-service-14.0.0.tgz"
-  "version" "14.0.0"
+"@angular/language-service@^14.2.3":
+  "integrity" "sha512-11rp2DumlZFO5+/N38RW6lXzicD/6LlqeVoS4qf8sIMGJ4bzeyOrG0T/PAG2iEA7hay1jPH51t0G529xaSw0tQ=="
+  "resolved" "https://registry.npmjs.org/@angular/language-service/-/language-service-14.2.3.tgz"
+  "version" "14.2.3"
 
-"@angular/platform-browser-dynamic@^14.0.0":
-  "integrity" "sha512-gmLRgTNJi3qEEBfOJA8EcSX3qAmTQ7nBu+TQosiFIFaZG98oa7F5W/PXZx0zOC5ElsqPClvPdgtM6MC7cwSqXQ=="
-  "resolved" "https://registry.npmjs.org/@angular/platform-browser-dynamic/-/platform-browser-dynamic-14.0.0.tgz"
-  "version" "14.0.0"
+"@angular/platform-browser-dynamic@^14.2.3":
+  "integrity" "sha512-yqSH9NrgkXN3aslbD9IHWnFClwwVlLTypaMfSGmhPL1LvgL/HL/A9rDYI2ZrybVoVmAZLsJ4uF2/GvK/pzUcNQ=="
+  "resolved" "https://registry.npmjs.org/@angular/platform-browser-dynamic/-/platform-browser-dynamic-14.2.3.tgz"
+  "version" "14.2.3"
   dependencies:
     "tslib" "^2.3.0"
 
-"@angular/platform-browser@^14.0.0", "@angular/platform-browser@14.0.0":
-  "integrity" "sha512-zijIhUxu3nJxoI3mTWxs1d7dh9ovldI09diumlm/rOhj/46j4SvGn8swJvWr0eo/QipkdP+i2Q1lAlpmRfI+tQ=="
-  "resolved" "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.0.0.tgz"
-  "version" "14.0.0"
+"@angular/platform-browser@^14.2.3", "@angular/platform-browser@14.2.3":
+  "integrity" "sha512-Ky5ITBVmr+T5zHRowLRTJx1exXo99bUA6vosxG4B/YlXkjNfqVz4BETgPwnoIdN00Y9lxGQrMbjqSuzOjGQ7IQ=="
+  "resolved" "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.2.3.tgz"
+  "version" "14.2.3"
   dependencies:
     "tslib" "^2.3.0"
 
-"@angular/router@^14.0.0":
-  "integrity" "sha512-8ctwkPkwAbBgxu0O3OfoUYgn7GmOM877Wi/CST/AXXHXMs9v2O2MWAV63ITAjwVD1p6/V+IhUNkiypvQW+0Afw=="
-  "resolved" "https://registry.npmjs.org/@angular/router/-/router-14.0.0.tgz"
-  "version" "14.0.0"
+"@angular/router@^14.2.3":
+  "integrity" "sha512-ACSBYZCMWBaVHmclaFS5C+zSTTcMbY6iJFjI0tiTqicqdpzAOIt6s5Ius1wzN9L6ANijn1ZdGAzH6j45GV/XtQ=="
+  "resolved" "https://registry.npmjs.org/@angular/router/-/router-14.2.3.tgz"
+  "version" "14.2.3"
   dependencies:
     "tslib" "^2.3.0"
 
